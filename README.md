@@ -5,7 +5,8 @@ Jekyll source for my website https://timmurphy.it
 
 ## todo
 
-- What is .jekyll-metadata?
+- .jekyll-metadata - what is it?
+- _config.yml - markdown value.
 
 
 ## Usage
